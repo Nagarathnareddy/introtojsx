@@ -1,3 +1,75 @@
+body
+{
+  background-image: url(../src/whitebg.jpeg);
+  width: 100vw;
+    height: 100vh;
+    border-color: gray;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    color: gray;
+    text-shadow: 3px 3px 3px;
+}
+
+#fset
+{
+    display: inline-table;
+    width: 300px;
+    height: 750px;
+    margin-left: 100px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+}
+#fset1
+{
+    display: inline-table;
+    width: 300px;
+    height: 850px;
+    margin-left: 200px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    
+}
+#fset2
+{
+    display: inline-table;
+    width: 300px;
+    height: 850px;
+    margin-left: 200px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#telMarks,#engMarks,#hinMarks,#matMarks,#sciMarks,#socMarks,#sanMarks1,#engMarks1,#mat1aMarks1,#mat1bMarks1,#phyMarks1,#cheMarks1,#sanMarks2,#engMarks2,#mat2aMarks2,#mat2bMarks2,#phyMarks2,#cheMarks2
+{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+
+#button,#button1,#button2
+{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    font-size: 1em;
+    background-color:#2dc653 ;
+    
+}
+
+
+
+
 .App {
   text-align: center;
 }
